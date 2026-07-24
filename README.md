@@ -2,7 +2,7 @@
 
 A Telegram bot that analyzes resumes against job descriptions using Groq AI and returns an ATS-style compatibility report.
 
-## Workflow
+## Workflow of BOT
 
 ```mermaid
 flowchart TD
